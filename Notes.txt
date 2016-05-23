@@ -1,0 +1,22 @@
+# Object oriented programming
+"""
+
+Class = new type
+Object = instances of a Class
+Fields = variables that belong to an object or Class
+Methods = functions that belong to a Class
+* Functions and variables are independent, while fields and methods belong to a Class
+Attributes = fields and methods of a Class
+
+- Field types
+instance variables = fields that belong to an instance / object
+class variables = fields that belong to a class itself
+
+-the self
+A variable that refers to the Class itself
+Exampme:
+class named MyClass
+instance named myobject
+
+myobject.method(arg1, arg2) = MyClass.method(myobject, arg1, arg2)
+"""
